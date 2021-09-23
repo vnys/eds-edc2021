@@ -1,0 +1,14 @@
+gitConfig:
+  alias.co: checkout
+  alias.br: branch
+  alias.ci: commit
+  alias.st: status
+  pull.rebase: merges
+
+vscode:
+  extensions:
+    - vtrois.gitmoji-vscode
+    - esbenp.prettier-vscode
+    - eamodio.gitlens
+    - dbaeumer.vscode-eslint
+    - pflannery.vscode-versionlens
